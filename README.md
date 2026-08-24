@@ -87,14 +87,15 @@ Integrated Stripe into the Bagisto checkout flow and built Vue.js admin componen
 
 <br>
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Peeyush415&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeyush415&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Peeyush415&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 
-<img src="https://streak-stats.demolab.com/?user=Peeyush415&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Peeyush415&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 </div>
 

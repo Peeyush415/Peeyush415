@@ -18,7 +18,7 @@ Building scalable **Laravel, WooCommerce & Bagisto** solutions with a focus on m
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Laravel+%26+Bagisto+eCommerce+systems;Designing+multi-vendor+marketplaces;Integrating+Stripe%2C+Shopify+%26+REST+APIs;Building+WooCommerce+plugins+%26+extensions" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Laravel+%26+Bagisto+eCommerce+systems;Designing+scalable+REST+APIs;Building+multi-vendor+marketplaces+based+modules;Developing+WooCommerce+plugins+%26+extensions;Integrating+Stripe+%26+third-party+APIs;Writing+clean+OOP+%26+SOLID-based+code" alt="Typing SVG">
 
 </div>
 
